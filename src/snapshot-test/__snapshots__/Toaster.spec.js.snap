@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - Toaster renders Error Toaster correctly 1`] = `
+<ForwardRef(Snackbar)
+  TransitionComponent={[Function]}
+  anchorOrigin={
+    Object {
+      "horizontal": "left",
+      "vertical": "bottom",
+    }
+  }
+  autoHideDuration={3000}
+  onClose={[Function]}
+  open={true}
+  style={
+    Object {
+      "maxWidth": "95vw",
+      "padding": 0,
+      "width": "fit-content",
+    }
+  }
+>
+  <ForwardRef(Alert)
+    onClose={[Function]}
+    severity="error"
+    style={
+      Object {
+        "fontSize": 16,
+        "opacity": 0.95,
+      }
+    }
+    variant="filled"
+  >
+    Default Message
+  </ForwardRef(Alert)>
+</ForwardRef(Snackbar)>
+`;
+
+exports[`Component - Toaster renders Info Toaster correctly 1`] = `
+<ForwardRef(Snackbar)
+  TransitionComponent={[Function]}
+  anchorOrigin={
+    Object {
+      "horizontal": "left",
+      "vertical": "bottom",
+    }
+  }
+  autoHideDuration={3000}
+  onClose={[Function]}
+  open={true}
+  style={
+    Object {
+      "maxWidth": "95vw",
+      "padding": 0,
+      "width": "fit-content",
+    }
+  }
+>
+  <ForwardRef(Alert)
+    onClose={[Function]}
+    severity="info"
+    style={
+      Object {
+        "fontSize": 16,
+        "opacity": 0.95,
+      }
+    }
+    variant="filled"
+  >
+    Default Message
+  </ForwardRef(Alert)>
+</ForwardRef(Snackbar)>
+`;
+
+exports[`Component - Toaster renders Success Toaster correctly 1`] = `
+<ForwardRef(Snackbar)
+  TransitionComponent={[Function]}
+  anchorOrigin={
+    Object {
+      "horizontal": "left",
+      "vertical": "bottom",
+    }
+  }
+  autoHideDuration={3000}
+  onClose={[Function]}
+  open={true}
+  style={
+    Object {
+      "maxWidth": "95vw",
+      "padding": 0,
+      "width": "fit-content",
+    }
+  }
+>
+  <ForwardRef(Alert)
+    onClose={[Function]}
+    severity="success"
+    style={
+      Object {
+        "fontSize": 16,
+        "opacity": 0.95,
+      }
+    }
+    variant="filled"
+  >
+    Default Message
+  </ForwardRef(Alert)>
+</ForwardRef(Snackbar)>
+`;
+
+exports[`Component - Toaster renders Warning Toaster correctly 1`] = `
+<ForwardRef(Snackbar)
+  TransitionComponent={[Function]}
+  anchorOrigin={
+    Object {
+      "horizontal": "left",
+      "vertical": "bottom",
+    }
+  }
+  autoHideDuration={3000}
+  onClose={[Function]}
+  open={true}
+  style={
+    Object {
+      "maxWidth": "95vw",
+      "padding": 0,
+      "width": "fit-content",
+    }
+  }
+>
+  <ForwardRef(Alert)
+    onClose={[Function]}
+    severity="warning"
+    style={
+      Object {
+        "fontSize": 16,
+        "opacity": 0.95,
+      }
+    }
+    variant="filled"
+  >
+    Default Message
+  </ForwardRef(Alert)>
+</ForwardRef(Snackbar)>
+`;

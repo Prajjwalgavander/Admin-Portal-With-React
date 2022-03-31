@@ -1,0 +1,477 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - CustomTable renders Table with default variant correctly 1`] = `
+<div
+  style={
+    Object {
+      "position": "relative",
+    }
+  }
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-1t8xe81-MuiPaper-root-MuiTableContainer-root"
+    size="small"
+    type="default"
+  >
+    <table
+      aria-label="simple table"
+      className="MuiTable-root css-8fcqlw-MuiTable-root"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root css-1vn4xlj-MuiTableHead-root"
+        role={null}
+        type="default"
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head css-2hu3kr-MuiTableRow-root"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Product
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Purchased On
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Buyer
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Price
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Due By
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Payment date
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Status
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Switch
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        role={null}
+      />
+    </table>
+    <div
+      className="css-padqdi"
+    >
+      No data avalaible
+    </div>
+    <div
+      className="css-mi4t00"
+      data={0}
+    />
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTable renders Table with pagination correctly 1`] = `
+<div
+  style={
+    Object {
+      "position": "relative",
+    }
+  }
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-1t8xe81-MuiPaper-root-MuiTableContainer-root"
+    size="small"
+    type="default"
+  >
+    <table
+      aria-label="simple table"
+      className="MuiTable-root css-8fcqlw-MuiTable-root"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root css-1vn4xlj-MuiTableHead-root"
+        role={null}
+        type="default"
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head css-2hu3kr-MuiTableRow-root"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Product
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Purchased On
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Buyer
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Price
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Due By
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Payment date
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Status
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1lp87cm-MuiTableCell-root"
+            scope="col"
+            type="default"
+          >
+            Switch
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        role={null}
+      />
+    </table>
+    <div
+      className="css-padqdi"
+    >
+      No data avalaible
+    </div>
+    <div
+      className="css-mi4t00"
+      data={0}
+    />
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTable renders Table with static variant correctly 1`] = `
+<div
+  style={
+    Object {
+      "position": "relative",
+    }
+  }
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-xu08jz-MuiPaper-root-MuiTableContainer-root"
+    size="small"
+    type="static"
+  >
+    <table
+      aria-label="simple table"
+      className="MuiTable-root css-8fcqlw-MuiTable-root"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root css-14pv9g6-MuiTableHead-root"
+        role={null}
+        type="static"
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head css-2hu3kr-MuiTableRow-root"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Product
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Purchased On
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Buyer
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Price
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Due By
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Payment date
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Status
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Switch
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        role={null}
+      />
+    </table>
+    <div
+      className="css-padqdi"
+    >
+      No data avalaible
+    </div>
+    <div
+      className="css-mi4t00"
+      data={0}
+    />
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTable renders Table without pagination correctly 1`] = `
+<div
+  style={
+    Object {
+      "position": "relative",
+    }
+  }
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-xu08jz-MuiPaper-root-MuiTableContainer-root"
+    size="small"
+    type="static"
+  >
+    <table
+      aria-label="simple table"
+      className="MuiTable-root css-8fcqlw-MuiTable-root"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root css-14pv9g6-MuiTableHead-root"
+        role={null}
+        type="static"
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head css-2hu3kr-MuiTableRow-root"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Product
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Purchased On
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Buyer
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Price
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Due By
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Payment date
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Status
+          </th>
+          <th
+            aria-sort={null}
+            cellin="header"
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-13hy3ze-MuiTableCell-root"
+            scope="col"
+            type="static"
+          >
+            Switch
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+        role={null}
+      />
+    </table>
+    <div
+      className="css-padqdi"
+    >
+      No data avalaible
+    </div>
+    <div
+      className="css-mi4t00"
+      data={0}
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - CustomTooltip renders all CustomTooltip correctly 1`] = `
+<div
+  aria-label="test label"
+  aria-labelledby={null}
+  className=""
+  data-mui-internal-clone-element={true}
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  style={
+    Object {
+      "backgroundColor": "lightgray",
+      "width": "150px",
+    }
+  }
+  type="default"
+>
+  Hover over me
+</div>
+`;
+
+exports[`Component - CustomTooltip renders all CustomTooltip correctly 2`] = `
+<div
+  aria-label="test label"
+  aria-labelledby={null}
+  className=""
+  data-mui-internal-clone-element={true}
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  style={
+    Object {
+      "backgroundColor": "lightgray",
+      "width": "150px",
+    }
+  }
+  type="default"
+>
+  Hover over me
+</div>
+`;
+
+exports[`Component - CustomTooltip renders all CustomTooltip correctly 3`] = `
+<div
+  aria-label="test label"
+  aria-labelledby={null}
+  className=""
+  data-mui-internal-clone-element={true}
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  style={
+    Object {
+      "backgroundColor": "lightgray",
+      "width": "150px",
+    }
+  }
+  type="error"
+>
+  Hover over me
+</div>
+`;

@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - LabelContainer renders all labels correctly 1`] = `
+<div
+  className="MuiBox-root css-1cu9w86"
+  type="filter"
+>
+  <div
+    style={
+      Object {
+        "marginRight": "10px",
+        "width": "max-content",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      label
+    </h6>
+  </div>
+  <div>
+    Label text
+  </div>
+</div>
+`;
+
+exports[`Component - LabelContainer renders all labels correctly 2`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      label*
+    </h6>
+  </div>
+  <div>
+    Label text
+  </div>
+</div>
+`;
+
+exports[`Component - LabelContainer renders all labels correctly 3`] = `
+<div
+  className="MuiBox-root css-i9rics"
+  type="dateFilter"
+>
+  <div
+    style={
+      Object {
+        "marginRight": "10px",
+        "width": "max-content",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      label
+    </h6>
+  </div>
+  <div>
+    Label text
+  </div>
+</div>
+`;
+
+exports[`Component - LabelContainer renders all labels correctly 4`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      label*
+    </h6>
+  </div>
+  <div>
+    Label text
+  </div>
+</div>
+`;

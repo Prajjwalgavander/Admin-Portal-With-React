@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - AppHeader renders AppHeader component correctly 1`] = `
+<header
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorDefault MuiAppBar-positionFixed mui-fixed css-doe4zy-MuiPaper-root-MuiAppBar-root"
+>
+  <div
+    className="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-yxz43g-MuiToolbar-root"
+  >
+    <div>
+      <h6>
+        Left Side Content
+      </h6>
+    </div>
+    <div>
+      <h6>
+        Right Side Content
+      </h6>
+    </div>
+  </div>
+</header>
+`;

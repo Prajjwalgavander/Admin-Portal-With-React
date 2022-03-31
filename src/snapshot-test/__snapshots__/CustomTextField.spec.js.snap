@@ -1,0 +1,1201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - CustomTextField renders all checkboxes correctly 1`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-1-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-1"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-1-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 2`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-2-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-2"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-2-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 3`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-3-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-3"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-3-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 4`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-4-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-4"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-4-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 5`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-5-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-5"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-5-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 6`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-6-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-6"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-6-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 7`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-7-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-7"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-7-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 8`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-8-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-8"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-8-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 9`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-9-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-9"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-9-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 10`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-10-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-10"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-10-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 11`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-11-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-11"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-11-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 12`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-12-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-12"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-12-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 13`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-13-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-13"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-13-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 14`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-14-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-14"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-14-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 15`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-15-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-15"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-15-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomTextField renders all checkboxes correctly 16`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      test*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1xaun1c-MuiFormControl-root-MuiTextField-root"
+    labeltype="default"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-1gzianm-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <input
+        aria-describedby="mui-16-helper-text"
+        aria-invalid={true}
+        autoFocus={false}
+        className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+        disabled={false}
+        id="mui-16"
+        name="test"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="test"
+        required={false}
+        type="string"
+        value="test"
+      />
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-15bseqw-MuiFormHelperText-root"
+      id="mui-16-helper-text"
+    >
+      test
+    </p>
+  </div>
+</div>
+`;

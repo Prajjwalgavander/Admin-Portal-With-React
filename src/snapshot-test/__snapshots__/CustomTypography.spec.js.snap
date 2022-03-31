@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 1`] = `
+<h1
+  className="MuiTypography-root MuiTypography-h1 css-s7q6uv-MuiTypography-root"
+>
+  This is h1 variant
+</h1>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 2`] = `
+<h2
+  className="MuiTypography-root MuiTypography-h2 css-1aqu1ga-MuiTypography-root"
+>
+  This is h1 variant
+</h2>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 3`] = `
+<h3
+  className="MuiTypography-root MuiTypography-h3 css-xjvtp2-MuiTypography-root"
+>
+  This is h1 variant
+</h3>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 4`] = `
+<h4
+  className="MuiTypography-root MuiTypography-h4 css-pkja05-MuiTypography-root"
+>
+  This is h1 variant
+</h4>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 5`] = `
+<h5
+  className="MuiTypography-root MuiTypography-h5 css-19bb5qq-MuiTypography-root"
+>
+  This is h1 variant
+</h5>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 6`] = `
+<h6
+  className="MuiTypography-root MuiTypography-h6 css-tho60i-MuiTypography-root"
+>
+  This is h1 variant
+</h6>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 7`] = `
+<h6
+  className="MuiTypography-root MuiTypography-subtitle1 css-rjc5iw-MuiTypography-root"
+>
+  This is h1 variant
+</h6>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 8`] = `
+<h6
+  className="MuiTypography-root MuiTypography-subtitle2 css-1mue1he-MuiTypography-root"
+>
+  This is h1 variant
+</h6>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 9`] = `
+<p
+  className="MuiTypography-root MuiTypography-body1 css-5wwosz-MuiTypography-root"
+>
+  This is h1 variant
+</p>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 10`] = `
+<p
+  className="MuiTypography-root MuiTypography-body2 css-ro1ry8-MuiTypography-root"
+>
+  This is h1 variant
+</p>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 11`] = `
+<span
+  className="MuiTypography-root MuiTypography-caption css-ecfcy6-MuiTypography-root"
+>
+  This is h1 variant
+</span>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 12`] = `
+<span
+  className="MuiTypography-root MuiTypography-button css-73a2ym-MuiTypography-root"
+>
+  This is h1 variant
+</span>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 13`] = `
+<span
+  className="MuiTypography-root MuiTypography-overline css-1dp7e8w-MuiTypography-root"
+>
+  This is h1 variant
+</span>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 14`] = `
+<span
+  className="MuiTypography-root MuiTypography-srOnly css-1kgf5qd-MuiTypography-root"
+>
+  This is h1 variant
+</span>
+`;
+
+exports[`Component - CustomTypography renders CustomTypography all variants correctly 15`] = `
+<p
+  className="MuiTypography-root MuiTypography-inherit css-1kgf5qd-MuiTypography-root"
+>
+  This is h1 variant
+</p>
+`;

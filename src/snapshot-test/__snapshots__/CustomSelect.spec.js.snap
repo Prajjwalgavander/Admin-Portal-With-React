@@ -1,0 +1,431 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - CustomSelect renders all custom select variants correctly 1`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      Select status*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root css-1s24yx5-MuiFormControl-root"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-sizeSmall css-1ak7ll5-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <div
+        aria-expanded="false"
+        aria-haspopup="listbox"
+        aria-label="Without label"
+        className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        Please Select
+      </div>
+      <input
+        aria-hidden={true}
+        className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        required={false}
+        tabIndex={-1}
+        value=""
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+        data-testid="ArrowDropDownIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomSelect renders all custom select variants correctly 2`] = `
+<div
+  className="MuiBox-root css-1cu9w86"
+  type="filter"
+>
+  <div
+    style={
+      Object {
+        "marginRight": "10px",
+        "width": "max-content",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      Select status
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root css-dkn3uk-MuiFormControl-root"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-sizeSmall css-lwglv2-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <div
+        aria-expanded="false"
+        aria-haspopup="listbox"
+        aria-label="Without label"
+        className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        Please Select
+      </div>
+      <input
+        aria-hidden={true}
+        className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        required={false}
+        tabIndex={-1}
+        value=""
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+        data-testid="ArrowDropDownIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomSelect renders custom select with disable state correctly 1`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      Select status*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root css-1s24yx5-MuiFormControl-root"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-disabled MuiInputBase-formControl MuiInputBase-sizeSmall css-1ak7ll5-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <div
+        aria-disabled="true"
+        aria-expanded="false"
+        aria-haspopup="listbox"
+        aria-label="Without label"
+        className="MuiSelect-select MuiSelect-outlined Mui-disabled MuiOutlinedInput-input MuiInputBase-input Mui-disabled MuiInputBase-inputSizeSmall css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={null}
+        role="button"
+        tabIndex={null}
+      >
+        Please Select
+      </div>
+      <input
+        aria-hidden={true}
+        className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+        disabled={true}
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        required={false}
+        tabIndex={-1}
+        value=""
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined Mui-disabled css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+        data-testid="ArrowDropDownIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomSelect renders custom select with error correctly 1`] = `
+<div
+  className="MuiBox-root css-1cu9w86"
+  type="filter"
+>
+  <div
+    style={
+      Object {
+        "marginRight": "10px",
+        "width": "max-content",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      Select status
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root css-dkn3uk-MuiFormControl-root"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-formControl MuiInputBase-sizeSmall css-lwglv2-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <div
+        aria-expanded="false"
+        aria-haspopup="listbox"
+        aria-label="Without label"
+        className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        Please Select
+      </div>
+      <input
+        aria-hidden={true}
+        className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        required={false}
+        tabIndex={-1}
+        value=""
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+        data-testid="ArrowDropDownIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+    <p
+      className="MuiFormHelperText-root Mui-error MuiFormHelperText-sizeSmall MuiFormHelperText-contained css-dyxcpb-MuiFormHelperText-root"
+    >
+      is required
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component - CustomSelect renders custom select with selected value correctly 1`] = `
+<div
+  style={
+    Object {
+      "height": "100px",
+      "width": "fit-content",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "textAlign": "start",
+      }
+    }
+  >
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-5ts02r-MuiTypography-root"
+    >
+      Select status*
+    </h6>
+  </div>
+  <div
+    className="MuiFormControl-root css-1s24yx5-MuiFormControl-root"
+  >
+    <div
+      className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-sizeSmall css-1ak7ll5-MuiInputBase-root-MuiOutlinedInput-root"
+      onClick={[Function]}
+    >
+      <div
+        aria-expanded="false"
+        aria-haspopup="listbox"
+        aria-label="Without label"
+        className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        Australia
+      </div>
+      <input
+        aria-hidden={true}
+        className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+        disabled={false}
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        required={false}
+        tabIndex={-1}
+        value={13}
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+        data-testid="ArrowDropDownIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden={true}
+        className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          className="css-nnbavb"
+        >
+          <span
+            className="notranslate"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "&#8203;",
+              }
+            }
+          />
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;

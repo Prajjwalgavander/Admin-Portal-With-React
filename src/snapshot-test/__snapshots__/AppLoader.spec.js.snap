@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - AppLoader renders PULSE variant AppLoader component correctly 1`] = `
+<span
+  className="css-1xdhyk6"
+>
+  <span
+    className="css-1xg279y"
+  />
+  <span
+    className="css-b513mu"
+  />
+  <span
+    className="css-xr14zd"
+  />
+</span>
+`;
+
+exports[`Component - AppLoader renders SCALE variant AppLoader component correctly 1`] = `
+<span
+  className="css-1xdhyk6"
+>
+  <span
+    className="css-1m487lk"
+  />
+  <span
+    className="css-1fqj8ti"
+  />
+  <span
+    className="css-vs8qd2"
+  />
+  <span
+    className="css-1adf12b"
+  />
+  <span
+    className="css-110uc55"
+  />
+</span>
+`;

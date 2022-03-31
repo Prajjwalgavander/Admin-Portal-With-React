@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - AppDrawer renders AppDrawer component correctly 1`] = `
+<Styled(ForwardRef(Drawer))
+  anchor="left"
+  open={true}
+  variant="temporary"
+>
+  <ForwardRef(Box)
+    sx={
+      Object {
+        "display": "flex",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <Styled(div)>
+      <CustomTypography
+        align="inherit"
+        display="initial"
+        noWrap={false}
+        sx={
+          Object {
+            "paddingLeft": "15px",
+          }
+        }
+        value="Demo Heading"
+        variant="h4"
+      />
+    </Styled(div)>
+    <Styled(ForwardRef(IconButton))
+      onClick={[Function]}
+      padding="0px"
+    >
+      <ForwardRef(SvgSideArrow) />
+    </Styled(ForwardRef(IconButton))>
+  </ForwardRef(Box)>
+  <ForwardRef(Box)
+    sx={
+      Object {
+        "overflow": "auto",
+      }
+    }
+  >
+    <ForwardRef(Divider) />
+    <h4>
+      Pass the list as a children in AppDrawer component
+    </h4>
+  </ForwardRef(Box)>
+</Styled(ForwardRef(Drawer))>
+`;
